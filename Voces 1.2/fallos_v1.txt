@@ -1,0 +1,40 @@
+﻿cp -p 1m.gsm 1M.gsm
+cp -p digits\1m.gsm digits\1M.gsm
+Falta and.gsm dentro de digits
+Faltan vm-Olds.gsm vm-INBOXs.gsm vm-Friends.gsm vm-Family.gsm
+vm-tohearenv.gsm  thousand.gsm
+Viejo debería ser viejos
+Mensaje debería ser mensajes
+
+
+Reportados por David Prieto
+
+ 
+Falta digits/2M.alaw (hacer un link o un cp a 2.alaw)
+Falta digits/es-el.alaw  (hacer un link o un cp de  ../es-el.alaw )
+Falta digits/es-de.alaw  (hacer un link o un cp de  ../es-de.alaw )
+ 
+Falta digits/y.alaw (hacer un link o un cp de ../and.alaw)
+ 
+La prueba que he hecho de momento ha sido solamente con el buzón de voz. 
+Esos archivos faltaban cuando me ha dicho que tenía x mensajes, y mensaje recibido el día tal DE tal, etc, etc.
+
+
+Reportados por Juan CArlos Valero
+
+vm-isonphone - Falta al final que diga "deje por favor su mensaje
+despues de la señal".
+
+digits/1M - "Un" falta
+vm-INBOXs - "Mensaje" falta
+vm-Olds   - "Viejo" falta
+vm-INBOX  - deberia de ser "Mensajes" en vez de Mensaje.
+
+Reportados por Microalcarria
+
+De las voces de Asterisk, en el set de 711u el dígito "1" se oye una cosa mu rara como si estuviera mal transformado el fichero, en gsm va bien.
+
+Reportados por A.Montilla
+
+Crear los alfa, bravo, tango.... Código ICAO
+
